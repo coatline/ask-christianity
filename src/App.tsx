@@ -1,4 +1,4 @@
-import { PostPreview } from './PostPreview'
+import { PostFeed } from './PostFeed'
 import acLogo from '/logo2.svg'
 import './App.css'
 
@@ -14,8 +14,8 @@ function App() {
           Pursue Truth. Be Transformed.
         </p>
       </div>
-      <PostPreview></PostPreview>
-      <p className="read-the-docs">
+      <PostFeed></PostFeed>
+      <p className="read-the-Sdocs">
         Subscribe
       </p>
     </>
