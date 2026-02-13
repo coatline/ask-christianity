@@ -1,14 +1,21 @@
+import { Link } from 'react-router-dom';
+
 interface PostProps {
-  json: string;
+  id: string;
+  title: string;
+  preview: string;
+  contentFile: string;
 }
 
-export function PostPreview(props: PostProps) {
+export default function PostPreview(props: PostProps) {
   return (
-    <div className="post-container">
-      <div className="card">
-        <h2>{props.json.title}</h2>
-        <p>{props.json.preview}</p>
+    <Link to={`/post/${props.id}`} className="post-link">
+      <div className="post-container">
+        <div className="card">
+          <h2>{props.title}</h2>
+          <p>{props.preview}</p>
+        </div>
       </div>
-    </div>
+    </Link>
   )
 }

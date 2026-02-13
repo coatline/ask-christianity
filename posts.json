@@ -1,14 +1,16 @@
 [
   {
-    "id": 1,
+    "id": "free-will",
+    "date": "2025-09-16",
     "title": "Do we have free will?",
-    "preview": "Free will is like...",
-    "content": "free_will.md"
+    "preview": "What's the heart of the debate?",
+    "contentFile": "free-will.md"
   },
   {
-    "id": 1,
+    "id": "how-do-we-know-anything",
+    "date": "2026-02-13",
     "title": "How do we know anything?",
-    "preview": "But, really though.",
-    "content": "how_do_we_know_anything.md"
+    "preview": "Can we 'prove' anything?",
+    "contentFile": "how-do-we-know-anything.md"
   }
 ]

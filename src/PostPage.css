@@ -1,0 +1,17 @@
+.post-reader article {
+  padding: 2rem;
+  
+  max-width: 800px;
+  margin: 0 auto; 
+}
+
+/* If you want headers to stay centered but paragraphs left-aligned: */
+.post-reader article p {
+  text-align: left;
+}
+
+.post-reader p {
+    text-align: left;
+    line-height: 1.7;
+    margin-bottom: 1.5em; /* Adds space between paragraphs */
+}
