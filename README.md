@@ -1,5 +1,5 @@
 # AskChristianity.org | Personal Website
-A high-performance, dynamic web application built to showcase modern frontend development practices. This project serves as a migration from a legacy WordPress site to a custom React and TypeScript architecture, featuring user interactivity via Supabase.
+A high-performance, dynamic web application built to showcase modern frontend development practices. This project serves as a migration from a legacy WordPress site to a custom React and TypeScript architecture.
 
 ## 🚀 The Tech Stack
 Frontend: React (Vite-powered)
@@ -44,14 +44,6 @@ npm run preview
 /src/lib - Configuration files (Supabase client initialization).
 
 /.env - (Secret) Stores your API keys. Never commit this file to GitHub.
-
-## Environment Variables
-To run this project locally, you must create a .env file in the root directory with the following:
-
-```bash
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
 
 ## 📝 Features to Implement
 [ ] Basic hosting of blogs
