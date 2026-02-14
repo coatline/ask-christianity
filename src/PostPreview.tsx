@@ -3,6 +3,7 @@ import './PostPreview.css'
 
 interface PostProps {
   id: string;
+  date: string;
   title: string;
   preview: string;
   contentFile: string;
@@ -11,8 +12,9 @@ interface PostProps {
 export default function PostPreview(props: PostProps) {
   return (
     <Link to={`/posts/${props.id}`}>
-      <div className="post-container">
+      <div className="post-preview">
           <h2>{props.title}</h2>
+          <p>{props.date}</p>
           <p>{props.preview}</p>
       </div>
     </Link>

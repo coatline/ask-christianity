@@ -2,10 +2,6 @@
   place-items: center;
 }
 
-.mission-statement{
-    color: var(--accent);
-}
-
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -18,4 +14,10 @@
 .logo:hover {
   filter: drop-shadow(0 0 2em #E31212);
   transform: translateY(-6px) scale(1.02);
+}
+
+.mission-statement {
+    height: auto;
+    color: var(--accent); 
+    margin: 0px;
 }

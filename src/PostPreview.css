@@ -1,18 +1,18 @@
-.post-container{
-    background-color: '--post-preview';
+.post-preview{
+  background-color: var(--post-preview);
+  padding: 2em;
+  border-radius: 8px;
+  border: 1px solid var(--accent);
+  transition: filter 500ms ease-in-out;
+  filter: drop-shadow(0 0 0em rgba(132, 132, 132, 0));
+  animation: slide-up 0.8s ease-out forwards;
+  color: var(--text);
 
-    background-color: rgb(21, 21, 21);
-    padding: 2em;
-    border-radius: 8px;
-    transition: filter 500ms ease-in-out;
-    filter: drop-shadow(0 0 0em rgba(132, 132, 132, 0));
-    animation: slide-up 0.8s ease-out forwards;
-
-    box-shadow: 
-        inset 2px 2px 4px rgba(37, 37, 37, 0.3),
-        inset -2px -2px 4px rgba(0, 0, 0, 0.3);
+  box-shadow: 
+      inset 2px 2px 4px rgba(37, 37, 37, 0.3),
+      inset -2px -2px 4px rgba(0, 0, 0, 0.3);
 }
 
-.post-container:hover {
-  filter: drop-shadow(0 0 1em #301a7baa);
+.post-preview:hover {
+  filter: drop-shadow(0 0 1em var(--accent));
 }

@@ -48,18 +48,35 @@ button {
 }
 
 button:hover {
-  border-color: #646cff;
+  border-color: var(--accent);
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+button, 
+select, 
+input, 
+textarea {
+  border: 1px solid var(--accent, #000000); /* Uses a variable or fallback */
+  background-color: var(--bg);
+  color: var(--text);
+  border-radius: 6px;
+  padding: 8px 12px;
+  transition: all 0.2s ease-in-out;
+  outline: none; /* Removes the default browser ring */
+}
+
+button:hover, 
+select:hover, 
+input:hover,
+textarea:hover {
+  border-color: var(--accent);
+  cursor: pointer;
+}
+
+button:focus, 
+select:focus, 
+input:focus, 
+textarea:focus {
+  border-color: var(--accent);
+  /* Adds a subtle glow using your accent color at 20% opacity */
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent), transparent 80%);
 }
