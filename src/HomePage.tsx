@@ -1,22 +1,16 @@
-import acLogo from '/logo2.svg'
-import { PostFeed } from './PostFeed'
+import { PostFeed } from "./PostFeed";
+import acLogo from "/logo2.svg";
+import "./HomePage.css";
 
 export default function HomePage() {
   return (
-    <>
-      <div>
-          <img src={acLogo} className="logo" alt="AskChristianity Logo"/>
-      </div>
+    <div className="home-container">
+      <img src={acLogo} className="logo" alt="AskChristianity Logo" />
       <h1>AskChristianity</h1>
       <div className="mission-statement">
-        <p>
-          Pursue Truth. Be Transformed.
-        </p>
+        <p>Pursue Truth. Be Transformed.</p>
       </div>
       <PostFeed></PostFeed>
-      <p className="subscribe">
-        Subscribe
-      </p>
-    </>
-  )
+    </div>
+  );
 }

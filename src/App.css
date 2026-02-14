@@ -1,7 +1,9 @@
 body {
   background-color: var(--bg);
+  font-size: var(--font-size);
   color: var(--text);
   transition: 0.3s ease;
+  font-family: sans-serif;
 }
 
 #root {
@@ -9,24 +11,16 @@ body {
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  /* user-select: none; */
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 250ms ease-in-out, transform 300ms ease-out;
-  animation: slide-down 0.8s ease-out forwards;
+.app-container{
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
 }
 
-.logo:hover {
-  filter: drop-shadow(0 0 1em #ff6464aa);
-  transform: translateY(-6px) scale(1.02);
-}
-
-.read-the-docs {
-  color: #b1b1b1;
+.content{
+  flex-grow: 1;
 }
 
 @keyframes slide-down {

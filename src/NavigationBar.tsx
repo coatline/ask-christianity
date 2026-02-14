@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
 import { themes } from "./themes";
+import './NavigationBar.css'
 
 export default function NavigationBar() {
   const [theme, setTheme] = useState(localStorage.getItem("theme") || "light");
 
   useEffect(() => {
-    const selectedTheme = themes[theme] || themes.light;
+    const selectedTheme = themes[theme] || themes.dark;
 
     Object.entries(selectedTheme).forEach(([key, value]) => {
       document.documentElement.style.setProperty(key, value);
@@ -17,7 +18,6 @@ export default function NavigationBar() {
   return (
     <nav className="top-nav">
       <div className="theme-selector">
-        <label htmlFor="theme-select">Theme: </label>
         <select
           id="theme-select"
           value={theme}

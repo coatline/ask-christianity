@@ -1,0 +1,16 @@
+
+
+.subscribe-section{
+    padding: 0;
+    margin: 0;
+}
+
+p, h3{
+    padding: 0;
+    margin: 0;
+}
+
+.subscribe{
+    color: var(--accent);
+    user-select: none;
+}

@@ -1,7 +1,21 @@
-.subscribe{
-    color: '--secondary';
+#root {
+  place-items: center;
 }
 
 .mission-statement{
-    color: '--secondary';
+    color: var(--accent);
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  filter: drop-shadow(0 0 1em #E31212);
+  animation: slide-down 0.8s ease-out forwards;
+  transition: filter 250ms ease-in-out, transform 300ms ease-out;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #E31212);
+  transform: translateY(-6px) scale(1.02);
 }

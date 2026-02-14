@@ -19,15 +19,13 @@ export default function PostPage() {
   }, [id, postData]);
 
   if (!postData) {
-    return <h1>Post Not Found</h1>;
+    return <h1>Post Not Found!</h1>;
   }
 
   return (
     <div>
-      <header className="post-header">
-        <h1>{postData.title}</h1>
-        <time>{postData.date}</time>
-      </header>
+      <h1>{postData.title}</h1>
+      <time>{postData.date}</time>
       <article className="post-reader">
         <div className="post-content">
           <ReactMarkdown>{content}</ReactMarkdown>

@@ -1,0 +1,17 @@
+/* Style the tag directly */
+h1 {
+    font-size: 32px; 
+    margin: 0px;
+}
+
+/* Match the React spelling */
+.mission-statement {
+    height: auto;
+    color: var(--text); 
+    margin: 0px;
+}
+
+.post-container {
+    background: transparent;
+    border: 1px solid var(--accent);
+}

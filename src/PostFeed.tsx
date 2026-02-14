@@ -1,5 +1,6 @@
 import PostPreview from './PostPreview'
 import posts from '../posts.json'
+import './PostFeed.css'
 
 export function PostFeed() {
   return (
