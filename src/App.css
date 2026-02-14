@@ -1,3 +1,9 @@
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: 0.3s ease;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -10,13 +16,17 @@
   height: 6em;
   padding: 1.5em;
   will-change: filter;
-  transition: filter 500ms ease-in-out, transform 300ms ease-out;
+  transition: filter 250ms ease-in-out, transform 300ms ease-out;
   animation: slide-down 0.8s ease-out forwards;
 }
 
 .logo:hover {
   filter: drop-shadow(0 0 1em #ff6464aa);
   transform: translateY(-6px) scale(1.02);
+}
+
+.read-the-docs {
+  color: #b1b1b1;
 }
 
 @keyframes slide-down {
@@ -39,39 +49,4 @@
     opacity: 1;
     transform: translateY(0);
   }
-}
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  background-color: rgb(21, 21, 21);
-  padding: 2em;
-  border-radius: 8px;
-  transition: filter 500ms ease-in-out;
-  filter: drop-shadow(0 0 0em rgba(132, 132, 132, 0));
-  animation: slide-up 0.8s ease-out forwards;
-
-  box-shadow: 
-    inset 2px 2px 4px rgba(37, 37, 37, 0.3),
-    inset -2px -2px 4px rgba(0, 0, 0, 0.3);
-}
-.card:hover {
-  filter: drop-shadow(0 0 1em #848484aa);
-}
-
-.read-the-docs {
-  color: #b1b1b1;
 }

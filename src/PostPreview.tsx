@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import './PostPreview.css'
 
 interface PostProps {
   id: string;
@@ -9,12 +10,10 @@ interface PostProps {
 
 export default function PostPreview(props: PostProps) {
   return (
-    <Link to={`/post/${props.id}`} className="post-link">
+    <Link to={`/posts/${props.id}`}>
       <div className="post-container">
-        <div className="card">
           <h2>{props.title}</h2>
           <p>{props.preview}</p>
-        </div>
       </div>
     </Link>
   )

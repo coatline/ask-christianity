@@ -17,23 +17,14 @@ Domain: askchristianity.org
 ## 🛠️ Essential Commands
 
 ```bash
-# Start the local development server (with Hot Module Replacement)
-npm run dev
+# Start the local development Vercel server (Recommended)
+vercel dev
 
 # Install all packages listed in package.json (run after cloning)
 npm install
 
-# Install a tool for development only (e.g., types)
-npm install -D @types/node
-
-# Push to GitHub (This automatically triggers a Vercel deploy)
-git push origin main
-
-# Build the project for production (Vercel does this automatically)
-npm run build
-
-# Preview the production build locally
-npm run preview
+# Start the lightweight Vite local development server
+npm run dev
 ```
 
 ## 📂 Project Structure

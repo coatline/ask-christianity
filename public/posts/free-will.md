@@ -1,5 +1,3 @@
-# The Free Will Debate!
-
 I'd like to start this post by making an observation on how having a discussion about free will typically goes. Here's a mock example of how I would say 90% of free will conversations happen.
 
 Calvin: "I don't believe in free will, man. I believe in the sovereignty of God. Don't you believe that God is in control?"
