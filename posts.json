@@ -1,5 +1,6 @@
 [
   {
+    "draft": "true",
     "id": "free-will",
     "date": "February 26, 2026",
     "title": "Do we have free will?",
@@ -12,5 +13,12 @@
     "title": "How do we know anything?",
     "preview": "Can we 'prove' anything?",
     "contentFile": "how-do-we-know-anything.md"
+  },
+  {
+    "id": "mission-statement",
+    "date": "July 21, 2025",
+    "title": "Our Mission",
+    "preview": "",
+    "contentFile": "mission-statement.md"
   }
 ]

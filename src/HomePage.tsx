@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import { PostFeed } from "./PostFeed";
 import acLogo from "/logo2.svg";
 import "./HomePage.css";
@@ -8,7 +9,9 @@ export default function HomePage() {
       <img src={acLogo} className="logo" alt="AskChristianity Logo" />
       <h1>AskChristianity</h1>
       <div className="mission-statement">
-        <p>Pursue Truth. Be Transformed.</p>
+        <Link to={`/posts/mission-statement`}>
+          <h3>Pursue Truth. Be Transformed.</h3>
+        </Link>
       </div>
       <PostFeed></PostFeed>
     </div>

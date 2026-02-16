@@ -2,6 +2,11 @@
   place-items: center;
 }
 
+.home-container{
+  margin: 25px;
+  font-size: large;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -17,7 +22,7 @@
 }
 
 .mission-statement {
-    height: auto;
-    color: var(--accent); 
-    margin: 0px;
+  height: auto;
+  color: var(--accent); 
+  margin: 0px;
 }

@@ -3,7 +3,7 @@ body {
   font-size: var(--font-size);
   color: var(--text);
   transition: 0.3s ease;
-  font-family: sans-serif;
+  font-family: 'Sans Classic', sans-serif;
 }
 
 #root {
@@ -21,6 +21,11 @@ body {
 
 .content{
   flex-grow: 1;
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+  text-decoration: none;
 }
 
 @keyframes slide-down {

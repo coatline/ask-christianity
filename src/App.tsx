@@ -4,6 +4,7 @@ import Subscribe from "./SubscribeForm";
 import HomePage from "./HomePage";
 import PostPage from "./PostPage";
 import "./App.css";
+import ScrollToTop from "./ScrollToTop";
 
 export default function App() {
   return (
@@ -11,15 +12,18 @@ export default function App() {
       <NavigationBar></NavigationBar>
 
       <div className="content">
-        <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/posts/:id" element={<PostPage />} />
-        </Routes>
+        <ScrollToTop></ScrollToTop>
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/posts/:id" element={<PostPage />} />
+            <Route path="/posts/drafts/:id" element={<PostPage />} />
+          </Routes>
       </div>
 
       <footer>
         <Subscribe></Subscribe>
       </footer>
+
     </div>
   );
 }

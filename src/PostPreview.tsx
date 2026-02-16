@@ -7,15 +7,20 @@ interface PostProps {
   title: string;
   preview: string;
   contentFile: string;
+  isDraft: boolean;
+  draftMode?: boolean;
 }
 
 export default function PostPreview(props: PostProps) {
+  const url = `/posts/${props.draftMode && props.isDraft ? "drafts/" : ""}${props.id}`;
+  
   return (
-    <Link to={`/posts/${props.id}`}>
+    <Link to={url}>
       <div className="post-preview">
-          <h2>{props.title}</h2>
-          <p>{props.date}</p>
-          <p>{props.preview}</p>
+        <h2>{props.title}</h2>
+        {props.isDraft && <h3>*Draft*</h3>}
+        <p className="date">{props.date}</p>
+        {props.preview !== "" ? <p className="preview">{props.preview}</p> : null}
       </div>
     </Link>
   )
