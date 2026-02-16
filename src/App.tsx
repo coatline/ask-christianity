@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react"
 import { Route, Routes } from "react-router-dom";
 import NavigationBar from "./NavigationBar";
 import Subscribe from "./SubscribeForm";
@@ -9,10 +10,11 @@ import ScrollToTop from "./ScrollToTop";
 export default function App() {
   return (
     <div className="app-container">
-      <NavigationBar></NavigationBar>
+      <Analytics />
+      <NavigationBar />
 
       <div className="content">
-        <ScrollToTop></ScrollToTop>
+        <ScrollToTop />
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/posts/:id" element={<PostPage />} />
@@ -21,7 +23,7 @@ export default function App() {
       </div>
 
       <footer>
-        <Subscribe></Subscribe>
+        <Subscribe />
       </footer>
 
     </div>
