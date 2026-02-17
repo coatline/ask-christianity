@@ -16,27 +16,27 @@ Calvin: "Well, what about these versus that clearly indicate that God predestine
 
 Stalemate.
 
-Notice what went wrong. First, sovereignty was never defined. Apparently, both Calvin and Wesley agree that God is in control, so why did sovereignty even come up?
+Notice what went wrong. First, **sovereignty** was never defined. Apparently, both Calvin and Wesley agree that God is in control, so why did sovereignty even come up?
 
-Second, free will was minimally defined. The best thing that happened in this example was that Wesley asked: "What do you mean that we don't have free will?" Calvin's theological response led Wesley to counter theologically, leading to a verse-vs-verse battle, where both sides remain where they began.
+Second, **free will** was **minimally** defined. The best thing that happened in this example was that Wesley asked: "What do you mean that we don't have free will?" Calvin's theological response led Wesley to counter theologically, leading to a verse-vs-verse battle, where both sides remain where they began.
 
-Debates like this are unproductive because neither side clearly defines what they mean. Each person fails to understand the other person's position, while at times assuming that they do understand the other person's position!
+Debates like this are unproductive because neither side clearly defines what they mean. Each person fails to understand the other person's position, while at times assuming that they **do** understand the other person's position!
 
-That's why when someone pulls out the term "free will," never assume that you know what they mean by it. In fact, I suggest that you should avoid ever using the term. Instead, state exactly what you believe about humanity's ability to make choices.
+That's why when someone pulls out the term "free will," **never** assume that you know what they mean by it. In fact, I suggest that you should avoid ever using the term. Instead, **state exactly what you believe about humanity's ability to make choices.**
 
-Let's begin by building a mental model of the fundamental questions behind this debate. Start by asking: "What is the cause behind your actions?" Most people agree that 'you' are behind your actions, whether they believe that our actions are predetermined or not. But they may disagree on what 'you' are. Here, 'you' is referring to the decision-making process. More specifically, it is the process that takes some inputs (like prior experiences) and outputs a decision.
+Let's begin by building a mental model of the fundamental questions behind this debate. Start by asking: "***What is the cause behind your actions?***" Most people agree that 'you' are behind your actions, whether they believe that our actions are predetermined or not. But they may disagree on what 'you' are. Here, 'you' is referring to the **decision-making process**. More specifically, it is the process that takes some inputs (like prior experiences) and outputs a decision.
 
-This debate depends entirely on a single question: "Is our decision-making process deterministic?" Answering this question clarifies what is actually being claimed without relying on overused terms like "free will" or "the ability to choose." These terms obscure the issue because the real disagreement lies in what is meant by 'you', which we have defined as our decision-making process. Simply asserting that we "have free will" does not advance the discussion unless we explain how that decision-making process operates.
+This debate depends entirely on a single question: "***Is our decision-making process deterministic?***" Answering this question clarifies what is actually being claimed without relying on overused terms like "free will" or "the ability to choose." These terms obscure the issue because the real disagreement lies in what is meant by 'you', which we have defined as our **decision-making process**. Simply asserting that we "have free will" does not advance the discussion unless we explain how that decision-making process operates.
 
 Setting aside the biblical/theological implications of each view, let's take a look at how each of these possibilities hold up.
 
-1. Our decision are NOT deterministic:
+1. **Our decision are NOT deterministic:**
 
 If our decisions are not deterministic, it may 
 
-2. Out decisions are deterministic
+2. **Our decisions are deterministic**
 
-And I want to focus on one question in particular because I think that it gets at the heart of the issue: "Are 'you' the 'uncaused first-cause' of your actions or are they simply the effect of prior causes?"
+And I want to focus on one question in particular because I think that it gets at the heart of the issue: "***Are 'you' the 'uncaused first-cause' of your actions or are they simply the effect of prior causes?***"
 
 Now this is getting really interesting. We've escaped the discussion of vague labels to talking about the actual mechanics behind those labels. If we can detail our decision-making process, we can understand how to better answer a host of downstream questions, such as moral responsibility.
 

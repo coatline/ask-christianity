@@ -9,7 +9,7 @@ export interface ThemeColors {
 export const themes: Record<string, ThemeColors> = {
   light: {
     '--bg': '#ffffff',
-    '--bg2': '#dddddd',
+    '--bg2': '#f1f1f1',
     '--text': '#1a1a1a',
     '--accent': '#ff0000',
     '--accent2': '#6c0e0e'

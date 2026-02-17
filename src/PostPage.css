@@ -15,6 +15,7 @@
   background-color: var(--bg2);
   border: 1px solid var(--accent2);
   border-radius: 8px;
+  animation: slide-up 0.8s ease-out forwards;
 
   max-width: 700px;
   margin: 0 auto; 
