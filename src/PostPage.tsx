@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
+import rehypeRaw from "rehype-raw";
 import posts from "../posts.json";
 import acLogo from "/logo2.svg";
 import "./PostPage.css";
@@ -36,7 +37,7 @@ export default function PostPage() {
       </div>
       <article className="post-reader">
         <div className="post-content">
-          <ReactMarkdown>{content}</ReactMarkdown>
+          <ReactMarkdown rehypePlugins={[rehypeRaw]}>{content}</ReactMarkdown>
         </div>
       </article>
     </div>
