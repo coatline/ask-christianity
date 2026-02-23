@@ -1,30 +1,17 @@
-I'd like to start this post by making an observation on how having a discussion about free will typically goes. Here's a mock example of how I would say 90% of free will conversations happen.
+Discussing free will is often frustrating and unproductive. Many times, each person assuming that they understand the other person's position when it's really just a "straw man" version of it.
 
-Calvin: "I don't believe in free will, man. I believe in the sovereignty of God. Don't you believe that God is in control?"
+It's important to realize that we must separate the **metaphysical (What is actually happening?)** from the **theological (How does it relate to God?).**
 
-Wesley: "Of course I believe that God is in control. He can intervene in history whenever he wants. I just believe that we have the free will to make decisions."
+I'm willing to say that regardless of where you land metaphysically, almost every Christian agrees that theologically:
 
-Calvin: "But every decision we make has been predetermined by God, so we don't have free will."
+1. Christians are held responsible for their actions (regardless of how we come to those actions).
+2. God is in control (regardless of how exactly he is in control).
 
-Wesley: "What do you mean that we don't have free will?"
+The theological disagreement typically comes from the specifics of how these points actually work together, and which is more highly emphasized. In other words, the disagreement comes from the metaphysics! Now, I know that some metaphysical viewpoints may seem to intrude on one or both of these points, but we shouldn't let our theological fears prevent us from examining the actual mechanics of our existence. If we are afraid to examine our decision-making process, then our theology is built on a foundation of avoidance rather than truth.
 
-Calvin: "I mean that we don't actually make choices, we're just doing what God has already laid out for us."
+To break into metaphysical thought, we need to stop using the term 'free will.' It is so loaded with baggage that it can be interpreted to mean entirely different things. Instead, be precise; **state exactly what you believe about humans' decision-making process.**
 
-Wesley: "But I overwhelmingly see that in the Bible, it is assumed that we have the ability to make choices."
-
-Calvin: "Well, what about these versus that clearly indicate that God predestined everything? *lists verses*
-
-Stalemate.
-
-Notice what went wrong. First, **sovereignty** was never defined. Apparently, both Calvin and Wesley agree that God is in control, so why did sovereignty even come up?
-
-Second, **free will** was **minimally** defined. The best thing that happened in this example was that Wesley asked: "What do you mean that we don't have free will?" Calvin's theological response led Wesley to counter theologically, leading to a verse-vs-verse battle, where both sides remain where they began.
-
-Debates like this are unproductive because neither side clearly defines what they mean. Each person fails to understand the other person's position, while at times assuming that they **do** understand the other person's position!
-
-That's why when someone pulls out the term "free will," **never** assume that you know what they mean by it. In fact, I suggest that you should avoid ever using the term. Instead, **state exactly what you believe about humanity's ability to make choices.**
-
-Let's begin by building a mental model of the fundamental questions behind this debate. Start by asking: "***What is the cause behind your actions?***" Most people agree that 'you' are behind your actions, whether they believe that our actions are predetermined or not. But they may disagree on what 'you' are. Here, 'you' is referring to the **decision-making process**. More specifically, it is the process that takes some inputs (like prior experiences) and outputs a decision.
+Let's begin by building a mental model of the fundamental questions behind this debate. Start by asking: "***What is the cause behind your actions?***" Most people agree that 'you' are behind your actions, whether they believe that our actions are predetermined or not. But they may disagree on what 'you' are. Here, 'you' is referring to the **decision-making process**. More specifically, it is the function that takes some inputs (like prior experiences) and outputs a decision.
 
 This debate depends entirely on a single question: "***Is our decision-making process deterministic?***" Answering this question clarifies what is actually being claimed without relying on overused terms like "free will" or "the ability to choose." These terms obscure the issue because the real disagreement lies in what is meant by 'you', which we have defined as our **decision-making process**. Simply asserting that we "have free will" does not advance the discussion unless we explain how that decision-making process operates.
 
@@ -32,29 +19,25 @@ Setting aside the biblical/theological implications of each view, let's take a l
 
 1. **Our decision are NOT deterministic:**
 
-If our decisions are not deterministic, it may 
+If the process is non-deterministic, it implies that given the exact same inputs (DNA, upbringing, experience, spiritual influences), you could have produced a different output.
+
+AI GENERATED: The Challenge: If the output wasn't determined by the inputs or the process, then what was it determined by? If the answer is "nothing," then the decision is essentially stochastic (random). But if the decision is random, we run into a new problem: How can you be held "responsible" for a roll of the dice? If "You" didn't determine the outcome based on your character and inputs, who did?
 
 2. **Our decisions are deterministic**
 
-And I want to focus on one question in particular because I think that it gets at the heart of the issue: "***Are 'you' the 'uncaused first-cause' of your actions or are they simply the effect of prior causes?***"
+If the process is deterministic, it means that given the same inputs, you will always produce the same output/decision.
 
-Now this is getting really interesting. We've escaped the discussion of vague labels to talking about the actual mechanics behind those labels. If we can detail our decision-making process, we can understand how to better answer a host of downstream questions, such as moral responsibility.
+And I want to focus on one question in particular because I think that it gets at the heart of the issue: "***Are 'you' the 'uncaused first-cause' of your actions or are they simply the effect of prior causes?***" Can you create new causal chains out of nothing, or are you a link in a chain that started before you were born?
 
-As we know, the brain is the epicenter of all of our decisions, so to understand this process, we have to touch on some neuroscience and psychology. Even if we possess some immaterial spiritual element that plays a role in our thinking, it would still need to interface with the brain to produce an action. Plus, there's no way to analyze a spiritual element, so any theories would require an existing framework to make sense in. There are four main theories regarding the decision-making process:
+Now this is getting really interesting. We've escaped the vague labels to the actual mechanics behind those labels. If we can detail our decision-making process, we can understand how to better answer a host of downstream questions, such as moral responsibility.
 
-Dual Process Theory (most popular theory)
 
-The Somatic Marker Hypothesis
 
-Predictive Processing
 
-Global Workspace Theory
 
-I don't want to go into too much detail regarding each of these theories, but it is important that we discuss the common consensus between them all.
 
-Firstly, the consensus of neuroscience is that the there's a part of your brain  .
 
-What's the difference between us and other animals then? We reason. We are conscious. What is consciousness???? We make deliberate choices. We have the ability to overcome our instincts/feelings whereas other animals have no intermediate step of logic or reason between information and action. We have moral obligations.
+What's the difference between us and other animals then? We reason. We are conscious. What is consciousness???? We make deliberate choices. We have the ability to overcome our instincts/feelings whereas other animals have no intermediate step of logic or reason between information and action. We have moral obligations. We were created with a purpose. We were made in the 
 
 But can you have moral obligations without the power of self-determination? What is self? Can you have moral obligations even if you are completely predictable and machine-like? 
 
@@ -78,7 +61,7 @@ If yes, how?
 
 If no, does God control our choices directly, or are there other factors that come into play? 
 
-It may be a bit controversial, but I believe that for this question, it's more helpful to look to our experience of how reality works (metaphysics) than it is to look at what the Bible says (theology). I say this because the Bible already seems to emphasize both human responsibility AND God's hand in the world. So, as Christians, I would say that regardless of whether or not we have the ability to make choices independent of our environment
+It may be a bit controversial, but I believe that for this question, it's more helpful to look to our experience of how reality works (metaphysics) than it is to look at what the Bible says (theology). I say this because the Bible already seems to emphasize both human responsibility AND God's hand in the world. So, as Christians, I would say that regardless of whether or not we have the ability to make choices independent of our environment, we are still responsible for the decisions that we make.
 
 AI Generated: Most modern Christians actually live in a weird middle ground—praying as if everything depends on God (Calvinism), but preaching as if everything depends on the listener’s choice (Arminianism).
 
