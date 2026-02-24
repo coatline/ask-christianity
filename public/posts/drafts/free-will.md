@@ -32,7 +32,7 @@ And I want to focus on one question in particular because I think that it gets a
 Now this is getting really interesting. We've escaped the vague labels to the actual mechanics behind those labels. If we can detail our decision-making process, we can understand how to better answer a host of downstream questions, such as moral responsibility.
 
 
-
+AI GENERATED: If someone claims they are an "uncaused first-cause," they have to explain how that works without invoking magic. If they claim they are purely deterministic, they have to explain how "guilt" or "praise" makes sense for a machine.
 
 
 

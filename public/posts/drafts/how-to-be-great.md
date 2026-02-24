@@ -12,3 +12,5 @@ Luke 16:10 (faithful with the small things)
 Luke 21:1–4 (greatness is measured by the sacrifice it costs you)
 
 Galatians 5:22-23 (the fruits of the Spirit are a metric of a successful life)
+
+[source](https://www.desiringgod.org/messages/receiving-children-in-jesus-name)
