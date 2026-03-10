@@ -37,7 +37,7 @@ npm run dev
 /.env - (Secret) Stores your API keys. Never commit this file to GitHub.
 
 ## 📝 Features to Implement
-[ ] Basic hosting of blogs
+[X] Basic hosting of blogs
 
 [ ] Responsive UI for mobile/desktop.
 
